@@ -1,6 +1,6 @@
 {
-  "name": "comp308-w2017-lesson4b",
-  "description": "Lesson 4 - Intro to MongoDB",
+  "name": "comp308-w2017-assignment1",
+  "description": "Assignment 1 - Selina Daley 300792374",
   "main": "server.js",
   "authors": [
     "Selina Daley"
@@ -11,7 +11,7 @@
     "ExpressJS",
     "EJS"
   ],
-  "homepage": "https://github.com/SelinaDaley/COMP308-w2017-Lesson4B",
+  "homepage": "https://github.com/SelinaDaley/COMP308-w2017-Assignment1",
   "ignore": [
     "**/.*",
     "node_modules",

@@ -5,7 +5,7 @@
  */
 
 let app = require('./app');
-let debug = require('debug')('comp308-w2017-lesson4b:server');
+let debug = require('debug')('comp308-w2017-assignment1:server');
 let http = require('http');
 
 /**

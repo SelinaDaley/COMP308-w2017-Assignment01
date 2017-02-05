@@ -1,5 +1,5 @@
-# COMP308-W2017-Lesson3B
+# COMP308-W2017-Assignment 1
 
-## Welcome to Lesson 4 - Intro to MongoDB
+## Welcome to Assignment 1 - Selina Daley 300792374
 
 please use **npm install** to install project dependencies

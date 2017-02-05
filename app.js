@@ -5,7 +5,7 @@ let logger = require('morgan');
 let cookieParser = require('cookie-parser');
 let bodyParser = require('body-parser');
 
-// import "mongoose"
+/*// import "mongoose"
 let mongoose = require('mongoose');
 
 // URI
@@ -19,7 +19,7 @@ let db = mongoose.connection;
 db.on('error', console.error.bind(console, 'connection error:'));
 db.once('open', () => {
   console.log("Conneced to MongoDB...");
-});
+});*/
 
 let index = require('./routes/index');
 
