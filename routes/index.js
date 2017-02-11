@@ -1,3 +1,10 @@
+/* 
+     File Name: index.js 
+     Author's Name: Selina Daley
+     Website Name: https://sdaley-comp308-w2017-asgn01.herokuapp.com/
+     Desciption: This file is used to route between different pages
+*/
+
 let express = require('express');
 let router = express.Router();
 //let mongoose = require('mongoose');
